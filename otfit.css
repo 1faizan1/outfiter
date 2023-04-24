@@ -1,0 +1,74 @@
+
+.p{
+    font-family: oswald;
+}
+.h1{
+    font-size: 50px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: oswald;
+    letter-spacing: 5px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+
+}
+.Y{
+    font-size: 75px;
+    margin-top: 0px;
+}
+.by{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 420px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.check{
+    font-size: bolder;
+    font-family: oswald;
+    margin-top: 5px;
+
+}
+.c{
+    font-size: 35px;
+    font-family: oswald;
+    font-weight: bolder;
+
+}
+
+.c1{
+    font-size: 25px;
+    font-family: oswald;
+    font-weight: bolder
+}
+.h{
+    font-size: 25px;
+    font-family: oswald;
+    font-weight: bolder
+}
+.check imge{
+    height: 30px;
+    width: 30px;
+    overflow-clip-margin : content-box;
+    overflow: clip;
+    align-self: right;
+    
+}
+.check des{
+    margin-bottom: 0px;
+}
+.check1{
+    font-size: bolder;
+    font-family: oswald;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25px;
+}
+.ck1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
